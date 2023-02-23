@@ -1,0 +1,19 @@
+body{background-color: bisque;}
+p { text-align: center; color: rgb(149, 159, 243);}
+h2 {
+    color: #b10909;
+}
+li {
+  color: green;
+  line-height: 1.5;
+  font-size: 16pt;
+}
+ul > li {
+  color: rgb(192, 69, 20);
+  
+}
+li > a {href: url('AvaMax.mp3', AvaMax.mp3)}
+.active {
+	font-weight: bold;
+	font-size: 20pt;
+} 
